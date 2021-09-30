@@ -20,6 +20,4 @@
 
 ![Sequence](SequenceDiag.png)
 
-Activity1 (1)..png
-
 
