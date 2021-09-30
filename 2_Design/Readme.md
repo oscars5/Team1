@@ -12,7 +12,5 @@
 
 ![UML](UML.png)
 
-## Sequence Diagram
 
-![sequence](sequencediag.png)
 
