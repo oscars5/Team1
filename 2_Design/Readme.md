@@ -4,11 +4,13 @@
 
 ![Usecase](Usecase.png)
 
-## Activity Diagrams
+## Activity Diagrams For CGPA calculation
 
 ![Activity Diagram](ActivityDiag.png)
+
+## Activity Diagrams For Batch Analysis
+
 ![Activity1 Diagram](ActivityDig.png)
-![Activity1](Activity1 (1)..png)
 
 ## UML Diagram
 
