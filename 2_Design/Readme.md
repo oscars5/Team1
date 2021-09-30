@@ -12,5 +12,9 @@
 
 ![UML](UML.png)
 
+## Sequence Diagram
+
+![Sequence](SequenceDiag.png)
+
 
 
