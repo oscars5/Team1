@@ -8,6 +8,7 @@
 
 ![Activity Diagram](ActivityDiag.png)
 ![Activity1 Diagram](ActivityDig.png)
+![Activity1](Activity1 (1)..png)
 
 ## UML Diagram
 
@@ -17,5 +18,6 @@
 
 ![Sequence](SequenceDiag.png)
 
+Activity1 (1)..png
 
 
