@@ -14,5 +14,5 @@
 
 ## Sequence Diagram
 
-![sequence](sequencediag.png)
+![sequence](sequence diag.png)
 
