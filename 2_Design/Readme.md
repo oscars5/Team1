@@ -4,9 +4,10 @@
 
 ![Usecase](Usecase.png)
 
-## Activity Diagram
+## Activity Diagrams
 
-![Activity Diagram](ActivityDig.png)
+![Activity Diagram](ActivityDiag.png)
+![Activity1 Diagram](ActivityDig.png)
 
 ## UML Diagram
 
