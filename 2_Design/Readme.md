@@ -4,11 +4,11 @@
 
 ![Usecase](Usecase.png)
 
-## Activity Diagrams For CGPA calculation
+## Activity Diagram for CGPA calculation
 
 ![Activity Diagram](ActivityDiag.png)
 
-## Activity Diagrams For Batch Analysis
+## Activity Diagram for Batch Analysis
 
 ![Activity1 Diagram](ActivityDig.png)
 
