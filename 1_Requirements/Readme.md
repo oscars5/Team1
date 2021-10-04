@@ -15,7 +15,7 @@
    # When:
    Currently
    # Where:
-   Virtualy
+   Virtual
    # How:
    With team and guide
  
