@@ -4,5 +4,5 @@
 
 ## Batch output
 
-![BM1](BM12.png)
+![BM1](BM11.png)
 ![BM2](BM12.png)
