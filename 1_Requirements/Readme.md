@@ -1,4 +1,27 @@
 # Requirements
+# Introduction 
+   This project is about Result Calculation and Analysis. Analysis can be done batch wise and module wise. Analysis part will show the min, max, avg, SD and KURT for obtained score. Chart wil represent the final result.
+# Research
+ Pycharm IDE is used for coding. python is the coding language.
+ # Defining Our System
+ this system uses python as a coding language. Openpyxl is library which we have used. Result will display in the form of cgpa and grade. batch analysis and module analysis can be done with graph.
+  # SWOT ANALYSIS
+  Team makes the strength, cooperation makes to overcome weakness. by exploring above things we can get the opportunities in future.
+   # 4W's and 1'H
+   # Who:
+   Prithvi Sekhar
+   # What:
+   Project on  Result Calculation and Analysis.
+   # When:
+   Currently
+   # Where:
+   Virtual
+   # How:
+   With team and guide
+ 
+    
+   
+ 
 ## _High level Requirements_
 
 | ID | Description |
