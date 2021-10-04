@@ -47,12 +47,34 @@ for i in range(2, mr + 1):
     total_credit = 0
     emp_cgpa = 0
     for data_col in range(7, mc + 1):
+        module = workSheet2.cell(row=2, column=data_col - 4 + x-1)
+        workSheet1.cell(row=1, column=data_col, value=module.value)
         credit = workSheet2.cell(row=2, column=data_col-4+x)
         total_credit = total_credit + credit.value
         x = x + 1
-
         score = workSheet1.cell(row=i, column=data_col)
-        total_cg_score = total_cg_score + ((score.value/10) * credit.value)
+        if 90 <= score.value <= 100:
+            emp_cgpa = 4.5
+        elif 85 <= score.value < 90:
+            emp_cgpa = 4.25
+        elif 80 <= score.value < 85:
+            emp_cgpa = 4
+        elif 75 <= score.value < 80:
+            emp_cgpa = 3.75
+        elif 70 <= score.value < 75:
+            emp_cgpa = 3.5
+        elif 65 <= score.value < 70:
+            emp_cgpa = 3.25
+        elif 60 <= score.value < 65:
+            emp_cgpa = 3
+        elif 55 <= score.value < 60:
+            emp_cgpa = 2
+        elif 50 <= score.value < 55:
+            emp_cgpa = 1
+        else:
+            emp_cgpa = 0
+
+        total_cg_score = total_cg_score + (emp_cgpa * credit.value)
 
         cgpa = total_cg_score/total_credit
         workSheet1.cell(row=i, column=6).value = round(cgpa, 2)
