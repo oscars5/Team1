@@ -1,8 +1,8 @@
 ## CGPA Output
 
-![CGPA](CGPA.png)
+![CGPA](CGPA1.png)
 
 ## Batch output
 
-![BM1](BM1.png)
-![BM2](BM2.png)
+![BM1](BM12.png)
+![BM2](BM12.png)
